@@ -1,4 +1,4 @@
-package com.ngocollaborator.demo;
+package com.ngocollaborator;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
