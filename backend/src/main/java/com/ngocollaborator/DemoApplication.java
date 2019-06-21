@@ -1,4 +1,4 @@
-package com.ngocollaborator.demo;
+package com.ngocollaborator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
